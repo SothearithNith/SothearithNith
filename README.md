@@ -2,13 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="170" />
 </div>
 
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#4CAF50;">Nith Sothearith</span>
-</h1>
-
-<h3 align="center">
-  Laravel & Livewire Developer • Future Full-Stack Engineer
-</h3>
+<!-- Dosis-style animated header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&size=32&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Nith+Sothearith;Laravel+%26+Livewire+Developer;Future+Full--Stack+Engineer" />
+</p>
 
 <p align="center">
   <em>Building apps, breaking things, learning fast ☕🐛</em>
@@ -16,6 +13,7 @@
 
 ---
 
+<!-- Social links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/nith-sothearith/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -37,7 +35,10 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- About Me header in Dosis-style -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&size=24&pause=1000&color=4CAF50&center=false&vCenter=false&width=400&lines=👨‍💻+About+Me" />
+</p>
 
 - 🔭 **Laravel & Livewire Developer**
 - 🌱 Learning **React JS, Java, Flutter**
@@ -46,7 +47,10 @@
 
 ---
 
-## 🧰 Tech Stack
+<!-- Tech Stack header -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&size=24&pause=1000&color=4CAF50&center=false&vCenter=false&width=400&lines=🧰+Tech+Stack" />
+</p>
 
 ### 💻 Backend & Frameworks
 <p>
@@ -77,20 +81,22 @@
 
 ---
 
-## 📊 GitHub Stats (Stable) 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SothearithNith&theme=dark&hide_border=true" />
+<!-- GitHub Stats header -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&size=24&pause=1000&color=4CAF50&center=false&vCenter=false&width=400&lines=📊+GitHub+Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SothearithNith&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=dark&hide_border=true" />
 </p>
-
 
 ---
 
