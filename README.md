@@ -77,9 +77,7 @@
 
 ---
 
-## 📊 GitHub Stats (Stable)
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable) 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SothearithNith&theme=dark&hide_border=true" />
