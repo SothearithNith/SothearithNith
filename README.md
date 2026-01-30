@@ -114,9 +114,10 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://kasroudra-stats-card.onrender.com/user?user=SothearithNith&layout=compact&theme=react" height="180" />
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=SothearithNith&layout=compact&type=donut&theme=react" height="180" />
 </p>
+
 
 ---
 
