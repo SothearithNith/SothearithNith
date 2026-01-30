@@ -1,29 +1,35 @@
+<!-- Header with gradient underline -->
 <h1 align="center">
-  <b>Nith Sothearith</b> 👋
+  Hi 👋, I'm <b>Nith Sothearith</b>
 </h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=22&pause=1000&color=4CAF50&width=600&lines=Laravel+%26+Livewire+Developer;Learning+React,+Java+%26+Flutter;Debug+%E2%86%92+Suffer+%E2%86%92+Repeat;Future+Full-Stack+Engineer" />
-</p>
-
-<!-- Gradient underline -->
 <div align="center">
-  <span style="display:block; width:250px; height:4px; background: linear-gradient(to right, #4CAF50, #0d6efd); border-radius:2px; margin:10px auto 25px;"></span>
+  <span style="display:block; width:200px; height:4px; background: linear-gradient(to right, #4CAF50, #0d6efd); margin:8px auto 20px;"></span>
 </div>
+
+<h3 align="center">
+  Laravel & Livewire Developer · Aspiring Full-Stack Engineer
+</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=18&pause=1000&color=4CAF50&center=true&vCenter=true&width=520&lines=Laravel+%26+Livewire+Developer;Learning+React+JS,+Java+%26+Flutter;Debug+%E2%86%92+Suffer+%E2%86%92+Repeat;Future+Full-Stack+Engineer" />
+  </a>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/nith-sothearith">
+  <a href="https://www.linkedin.com/in/nith-sothearith/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/nithsothearith.nsr">
+  <a href="https://www.facebook.com/nithsothearith.nsr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://t.me/NithSothearith">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/nith_sothearith">
+  <a href="https://www.instagram.com/nith_sothearith/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/SothearithNith">
@@ -33,46 +39,63 @@
 
 ---
 
-### 🧰 Languages & Tools
+### 🧑‍💻 Languages & Frameworks
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/HTML-000?logo=html5&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-000?logo=css3&style=for-the-badge">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-000?logo=html5">
+  <img src="https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/PHP-000?logo=php&logoColor=777BB4">
+  <img src="https://img.shields.io/badge/Java-000?logo=OpenJDK&logoColor=ED8B00">
+  <img src="https://img.shields.io/badge/Python-000?logo=python">
+  <img src="https://img.shields.io/badge/Dart-000?logo=dart&logoColor=0175C2">
+  <img src="https://img.shields.io/badge/C%2B%2B-000?logo=c%2B%2B&logoColor=00599C">
+  <img src="https://img.shields.io/badge/CSharp-000?logo=csharp">
+  <img src="https://img.shields.io/badge/SQL-000?logo=mysql">
 </p>
 
 <p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Livewire-3B82F6?logo=laravel&style=for-the-badge">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Livewire-3B82F6?logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-000?logo=linux">
 </p>
 
+---
+
+### 🛠️ Tools & IDEs
 <p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/VSCode-0078D7?logo=visual-studio-code&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&style=for-the-badge">
-  <img src="https://img.shields.io/badge/CapCut-000?logo=capcut&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge">
+  <img src="https://img.shields.io/badge/VSCode-0078D7?logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/CapCut-000?logo=capcut&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white">
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=radical&count_private=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=4CAF50" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=radical&hide_border=false&bg_color=0d1117" height="180"/>
+  <img src="https://kasroudra-stats-card.onrender.com/user?user=SothearithNith&layout=compact&theme=react" height="180" />
+  <img src="https://kasroudra-stats-card.onrender.com/lang?user=SothearithNith&layout=compact&type=donut&theme=react" height="180" />
+</p>
+
+---
+
+### 🎯 Fun Projects & Hobbies
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C++_Movies-000?style=flat-square" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/My_Website-000?style=flat-square" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Heartbleed-000?style=flat-square" /></a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ <b>“Code. Learn. Repeat.”</b> ✨
+  <samp>✨ “Code. Learn. Repeat.” ✨</samp>
 </p>
