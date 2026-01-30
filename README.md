@@ -14,7 +14,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 working on <a href="#">Personal Projects</a> 」
+                「 working on <a target="_blank" href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a> 」
                 <br>
                 <br>
                 「 Learning new things everyday, debug → suffer → repeat 」
