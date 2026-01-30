@@ -1,10 +1,9 @@
-<!-- Header with gradient underline -->
+<!-- Header -->
 <h1 align="center">
-  Hi 👋, I'm <b>Nith Sothearith</b>
+  <samp>
+    Hi 👋, I'm <b>Nith Sothearith</b>
+  </samp>
 </h1>
-<div align="center">
-  <span style="display:block; width:200px; height:4px; background: linear-gradient(to right, #4CAF50, #0d6efd); margin:8px auto 20px;"></span>
-</div>
 
 <h3 align="center">
   Laravel & Livewire Developer · Aspiring Full-Stack Engineer
@@ -12,13 +11,26 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=18&pause=1000&color=4CAF50&center=true&vCenter=true&width=520&lines=Laravel+%26+Livewire+Developer;Learning+React+JS,+Java+%26+Flutter;Debug+%E2%86%92+Suffer+%E2%86%92+Repeat;Future+Full-Stack+Engineer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=18&pause=1000&color=4CAF50&center=true&vCenter=true&width=520&lines=Laravel+%26+Livewire+Developer;Learning+React+JS%2C+Java+%26+Flutter;Debug+%E2%86%92+Suffer+%E2%86%92+Repeat+%F0%9F%98%82;Future+Full-Stack+Engineer" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 👨‍💻 About Me
+
+<p align="center">
+  <samp>
+    💼 Working at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a><br>
+    🌱 Always learning, always building<br>
+    🧠 Turning bugs into features (sometimes 😅)
+  </samp>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/nith-sothearith/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -39,7 +51,8 @@
 
 ---
 
-### 🧑‍💻 Languages & Frameworks
+### 🧑‍💻 Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-000?logo=html5">
   <img src="https://img.shields.io/badge/CSS-000?logo=css3&logoColor=1572B6">
@@ -52,6 +65,10 @@
   <img src="https://img.shields.io/badge/SQL-000?logo=mysql">
 </p>
 
+---
+
+### ⚙️ Frameworks & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Livewire-3B82F6?logo=laravel&logoColor=white">
@@ -63,39 +80,43 @@
 
 ---
 
-### 🛠️ Tools & IDEs
+### 🛠️ Tools I Love
+
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-0078D7?logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/CapCut-000?logo=capcut&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white">
 </p>
 
+<p align="center">
+  <!-- IDEs & Design Tools -->
+  <img src="https://img.shields.io/badge/VSCode-0078D7?logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/CapCut-000?logo=capcut&logoColor=white">
+</p>
+
+<p align="center">
+  <!-- API / Dev Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+</p>
+
+
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
+
 <p align="center">
   <img src="https://kasroudra-stats-card.onrender.com/user?user=SothearithNith&layout=compact&theme=react" height="180" />
   <img src="https://kasroudra-stats-card.onrender.com/lang?user=SothearithNith&layout=compact&type=donut&theme=react" height="180" />
 </p>
 
----
-
-### 🎯 Fun Projects & Hobbies
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/C++_Movies-000?style=flat-square" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/My_Website-000?style=flat-square" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Heartbleed-000?style=flat-square" /></a>
-</p>
 
 ---
 
 <p align="center">
   <samp>✨ “Code. Learn. Repeat.” ✨</samp>
-</p>
+</p> 
