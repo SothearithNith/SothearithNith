@@ -48,6 +48,8 @@
 ![Flutter](https://img.shields.io/badge/-flutter-000?&logo=flutter&logoColor=02569B)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/-Java-000?&logo=OpenJDK&logoColor=ED8B00)
 
 ### Technologies
 
