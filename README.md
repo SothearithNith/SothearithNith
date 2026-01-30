@@ -89,6 +89,7 @@
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-0078D7?logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
 
 ---
