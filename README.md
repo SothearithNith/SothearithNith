@@ -106,6 +106,12 @@
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-  <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
-  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&langs_count=8&layout=compact&theme=react&hide_border=true" height="192px"/></a>
+        <a href="https://github.com/SothearithNith">
+          <img alt="GitHub Stats" src="https://kasroudra-stats-card.onrender.com/user?user=SothearithNith&layout=compact&theme=react" height="192px"/>
+        </a>
+
+        <a href="https://github.com/SothearithNith">
+          <img alt="Top Languages" src="https://kasroudra-stats-card.onrender.com/lang?user=SothearithNith&layout=compact&type=donut&theme=react" height="192px"/>
+        </a>
+
 </details>
