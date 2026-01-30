@@ -33,25 +33,24 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nith-sothearith/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&rounded=true"/>
   </a>
   <a href="https://www.facebook.com/nithsothearith.nsr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&rounded=true"/>
   </a>
   <a href="https://t.me/NithSothearith">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&rounded=true"/>
   </a>
   <a href="https://www.instagram.com/nith_sothearith/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&rounded=true"/>
   </a>
   <a href="https://github.com/SothearithNith">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&rounded=true"/>
   </a>
   <a href="https://nithsothearith.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white&rounded=true"/>
   </a>
 </p>
-
 
 ---
 
