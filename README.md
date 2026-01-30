@@ -107,11 +107,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SothearithNith&theme=react&hide_border=true" />
-</p>
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://kasroudra-stats-card.onrender.com/user?user=SothearithNith&layout=compact&theme=react" height="180" />
