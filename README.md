@@ -83,14 +83,27 @@
 ### 🛠️ Tools I Love
 
 <p align="center">
+  <!-- Databases & Cloud -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white">
+</p>
+
+<p align="center">
+  <!-- IDEs & Design Tools -->
   <img src="https://img.shields.io/badge/VSCode-0078D7?logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/CapCut-000?logo=capcut&logoColor=white">
+</p>
+
+<p align="center">
+  <!-- API / Dev Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
 </p>
+
 
 ---
 
