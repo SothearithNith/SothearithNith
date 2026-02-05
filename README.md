@@ -122,8 +122,9 @@
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
