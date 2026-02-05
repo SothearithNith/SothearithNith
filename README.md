@@ -67,15 +67,18 @@
 
 ---
 
-## 📊 Data & Analytics (New ✨)
+## 📊 Data & Analytics (Power BI Journey 🚀)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <samp>
-    📈 Data modeling • DAX (learning) • Business dashboards
+    📈 Building interactive dashboards<br>
+    🧮 Learning DAX & data modeling<br>
+    🔗 Connecting business data with backend systems (Laravel mindset 😉)
   </samp>
 </p>
 
@@ -89,12 +92,19 @@
 
 ---
 
-## 📊 GitHub Stats (Animated)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SothearithNith&theme=react&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=react&hide_border=true" 
+    height="170"
+  />
 </p>
+
 
 ---
 
