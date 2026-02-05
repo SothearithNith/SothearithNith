@@ -1,40 +1,36 @@
-<!-- Hero -->
+<!-- Animated Header -->
 <h1 align="center">
-  <samp>
-    👋 Hey, I'm <b>Nith Sothearith</b>
-  </samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=160&section=header&text=Nith%20Sothearith&fontSize=38&fontAlignY=35&animation=twinkling" />
 </h1>
 
-<h3 align="center">
-  Laravel • Livewire • Full-Stack in Progress 🚀
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=20&pause=900&color=4CAF50&center=true&vCenter=true&width=620&lines=Laravel+%26+Livewire+Developer;Building+Production-Ready+Web+Apps;Learning+React%2C+Java%2C+Flutter+%26+Power+BI;Debugging+Is+My+Cardio+%F0%9F%92%AA" />
+</p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Dosis&weight=500&size=18&pause=1000&color=4CAF50&center=true&vCenter=true&width=560&lines=Laravel+%26+Livewire+Developer;Building+Real-World+Web+Apps;Learning+React%2C+Java+%26+Flutter;Debug.+Break.+Fix.+Repeat.+%F0%9F%94%A5"
-  />
+  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=4CAF50&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 <p align="center">
   <samp>
-    💼 Software Developer at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a><br>
-    🌱 Constantly learning & shipping features<br>
-    🧠 I enjoy turning complex problems into clean solutions<br>
-    ⚡ Goal: Become a strong Full-Stack Engineer
+    💼 Developer at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a><br>
+    🚀 Laravel & Livewire focused, full-stack mindset<br>
+    📊 Currently learning <b>Power BI</b> for data visualization & reporting<br>
+    🧩 I enjoy solving business problems with code + data
   </samp>
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nith-sothearith/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/nithsothearith.nsr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
@@ -71,6 +67,20 @@
 
 ---
 
+## 📊 Data & Analytics (New ✨)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=powerbi" />
+</p>
+
+<p align="center">
+  <samp>
+    📈 Data modeling • DAX (learning) • Business dashboards
+  </samp>
+</p>
+
+---
+
 ## 🛠️ Tools & Platforms
 
 <p align="center">
@@ -79,16 +89,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=react&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SothearithNith&theme=react&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg" />
@@ -96,14 +106,23 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity Graph (Live)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">
+  <samp>
+    I enjoy mixing backend logic with data insights — code + charts = ❤️
+  </samp>
 </p>
 
 ---
 
 <p align="center">
-  <samp>✨ Code with purpose. Learn relentlessly. Grow daily. ✨</samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer"/>
 </p>
