@@ -1,10 +1,14 @@
 <!-- Animated Header -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=160&section=header&text=Nith%20Sothearith&fontSize=38&fontAlignY=35&animation=twinkling" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=180&section=header&text=Nith%20Sothearith&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<h3 align="center">
+  Laravel • Livewire • Full-Stack Engineer in Progress 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=20&pause=900&color=4CAF50&center=true&vCenter=true&width=620&lines=Laravel+%26+Livewire+Developer;Building+Production-Ready+Web+Apps;Learning+React%2C+Java%2C+Flutter+%26+Power+BI;Debugging+Is+My+Cardio+%F0%9F%92%AA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=20&pause=900&color=4CAF50&center=true&vCenter=true&width=640&lines=Laravel+%26+Livewire+Developer;Building+Real-World+Business+Systems;Learning+React%2C+Java%2C+Flutter+%26+Power+BI;Code.+Analyze.+Improve.+Repeat.+%F0%9F%94%A5" />
 </p>
 
 <p align="center">
@@ -13,14 +17,14 @@
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
 <p align="center">
   <samp>
     💼 Developer at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a><br>
-    🚀 Laravel & Livewire focused, full-stack mindset<br>
-    📊 Currently learning <b>Power BI</b> for data visualization & reporting<br>
-    🧩 I enjoy solving business problems with code + data
+    ⚙️ Laravel & Livewire specialist with full-stack mindset<br>
+    📊 Expanding into data analytics using <b>Power BI</b><br>
+    🎯 Goal: Build scalable systems powered by data
   </samp>
 </p>
 
@@ -30,7 +34,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nith-sothearith/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.facebook.com/nithsothearith.nsr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
@@ -59,7 +63,7 @@
 
 ---
 
-## ⚙️ Frameworks & Tech
+## ⚙️ Frameworks & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,flutter,spring,linux" />
@@ -67,18 +71,18 @@
 
 ---
 
-## 📊 Data & Analytics (Power BI Journey 🚀)
+## 📊 Data & Analytics (Power BI Focus 🚀)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <samp>
-    📈 Building interactive dashboards<br>
-    🧮 Learning DAX & data modeling<br>
-    🔗 Connecting business data with backend systems (Laravel mindset 😉)
+    📈 Designing interactive dashboards<br>
+    🧮 Learning DAX & data modeling fundamentals<br>
+    🔗 Turning backend data into business insights<br>
+    💡 Bridging Laravel systems with analytics thinking
   </samp>
 </p>
 
@@ -92,7 +96,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable & Working)
 
 <p align="center">
   <img 
@@ -105,6 +109,13 @@
   />
 </p>
 
+---
+
+## 📈 Contribution Activity (Live Animation)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -116,23 +127,17 @@
 
 ---
 
-## 📈 Activity Graph (Live)
+## ⚡ Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-<h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
   <samp>
-    I enjoy mixing backend logic with data insights — code + charts = ❤️
+    I love combining backend logic with data insights —<br>
+    code tells the story, data proves it 📊
   </samp>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer" />
 </p>
