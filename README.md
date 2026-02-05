@@ -22,8 +22,8 @@
 <p align="center">
   <samp>
     💼 Developer at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a><br>
-    ⚙️ Laravel & Livewire specialist with full-stack mindset<br>
-    📊 Expanding into data analytics using <b>Power BI</b><br>
+    ⚙️ Laravel & Livewire focused, full-stack mindset<br>
+    📊 Exploring data analytics with <b>Power BI</b><br>
     🎯 Goal: Build scalable systems powered by data
   </samp>
 </p>
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 Data & Analytics (Power BI Focus 🚀)
+## 📊 Data & Analytics (Power BI 🚀)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
@@ -79,10 +79,9 @@
 
 <p align="center">
   <samp>
-    📈 Designing interactive dashboards<br>
-    🧮 Learning DAX & data modeling fundamentals<br>
-    🔗 Turning backend data into business insights<br>
-    💡 Bridging Laravel systems with analytics thinking
+    📈 Interactive dashboards & reports<br>
+    🧮 Learning DAX & data modeling<br>
+    🔗 Connecting backend data with business insights
   </samp>
 </p>
 
@@ -96,7 +95,7 @@
 
 ---
 
-## 📊 GitHub Stats (Stable & Working)
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -111,7 +110,7 @@
 
 ---
 
-## 📈 Contribution Activity (Live Animation)
+## 📈 Contribution Activity (Animated & Safe)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true&area=true" />
@@ -119,21 +118,12 @@
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true" />
-</p>
-
-
----
-
 ## ⚡ Fun Fact
 
 <p align="center">
   <samp>
-    I love combining backend logic with data insights —<br>
-    code tells the story, data proves it 📊
+    I enjoy mixing backend logic with data thinking —<br>
+    build first, analyze smarter 📊
   </samp>
 </p>
 
