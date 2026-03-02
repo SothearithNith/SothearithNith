@@ -1,19 +1,20 @@
-<!-- Animated Header -->
+<!-- Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=180&section=header&text=Nith%20Sothearith&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=220&section=header&text=Nith%20Sothearith&fontSize=46&fontAlignY=40&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-  Laravel • Livewire • Full-Stack Engineer in Progress 🚀
+  🚀 Laravel • Livewire • Full-Stack Engineer in Progress
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=600&size=20&pause=900&color=4CAF50&center=true&vCenter=true&width=640&lines=Laravel+%26+Livewire+Developer;Building+Real-World+Business+Systems;Learning+React%2C+Java%2C+Flutter+%26+Power+BI;Code.+Analyze.+Improve.+Repeat.+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=22&pause=900&color=FF5733&center=true&vCenter=true&width=680&lines=Building+Scalable+Business+Systems;Mastering+Laravel+%26+Livewire;Exploring+React,+Java,+Flutter+%26+Power+BI;Code.+Analyze.+Improve.+Repeat." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=4CAF50&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=FF5733&style=for-the-badge"/>
 </p>
+
 
 ---
 
@@ -102,7 +103,7 @@
 ## 📈 Contribution Activity (Animated & Safe)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=false&area=true" />
 </p>
 
 ---
@@ -119,5 +120,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=150&section=footer" />
 </p>
