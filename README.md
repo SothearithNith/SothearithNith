@@ -69,10 +69,12 @@
 
 ---
 
-## ⚙️ Frameworks & Technologies
+# ⚙️ Frameworks & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,spring,linux" />
+
+<img src="https://skillicons.dev/icons?i=laravel,react,flutter,spring,nodejs,express,linux"/>
+
 </p>
 
 ---
