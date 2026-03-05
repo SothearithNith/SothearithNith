@@ -129,11 +129,36 @@
 
 ---
 
+# 🚀 Current Focus
+
+<p align="center">
+<samp>
+
+🔹 Laravel Business Systems  
+🔹 Telegram Automation Bots  
+🔹 React Dashboard Development  
+🔹 Power BI Data Visualization  
+
+</samp>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=radical&no-frame=true&margin-w=6&margin-h=6"/>
+
+</p>
+
+---
+
 ## 📊 GitHub Stats <p align="center"> <img src="https://kasroudra-stats-card.onrender.com/user?user=SothearithNith&layout=compact&theme=react" height="180" /> <img src="https://kasroudra-stats-card.onrender.com/lang?user=SothearithNith&layout=compact&type=donut&theme=react" height="180" /> </p>
 
 ---
 
-## 📈 Contribution Activity (Animated & Safe)
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&hide_border=false&area=true" />
@@ -141,17 +166,29 @@
 
 ---
 
-## ⚡ Fun Fact
+# 🐍 Contribution Snake
 
 <p align="center">
-  <samp>
-    I enjoy mixing backend logic with data thinking —<br>
-    build first, analyze smarter 📊
-  </samp>
+
+<img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+<p align="center">
+<samp>
+
+I enjoy mixing **backend engineering with data thinking**  
+Build systems first → then analyze them smarter 📊
+
+</samp>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=150&section=footer"/>
 </p>
