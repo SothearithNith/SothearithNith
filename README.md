@@ -34,7 +34,6 @@
 
 ---
 
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -60,10 +59,12 @@
 
 ---
 
-## 🧑‍💻 Languages
+# 🧑‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,java,python,dart,cpp,cs,mysql" />
+
+<img src="https://skillicons.dev/icons?i=html,css,php,java,python,dart,cpp,cs,mysql"/>
+
 </p>
 
 ---
