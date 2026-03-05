@@ -98,26 +98,33 @@
 
 ---
 
-## 📊 Data & Analytics (Power BI 🚀)
+# 📊 Data Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 </p>
 
 <p align="center">
-  <samp>
-    📈 Interactive dashboards & reports<br>
-    🧮 Learning DAX & data modeling<br>
-    🔗 Connecting backend data with business insights
-  </samp>
+<samp>
+
+📈 Interactive Dashboards  
+📊 Data Modeling  
+🧮 Learning **DAX**  
+🔗 Backend Data → Business Insights  
+
+</samp>
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+# 🛠️ Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,aws,vercel,vscode,figma,postman" />
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,aws,vercel,vscode,figma,postman,git,github,linux,redis,nginx"/>
+
 </p>
 
 ---
