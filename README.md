@@ -4,15 +4,15 @@
 </p>
 
 <h3 align="center">
-  🚀 Laravel • Livewire • Full-Stack Engineer in Progress
+🚀 Laravel • Livewire • Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=22&pause=900&color=FF5733&center=true&vCenter=true&width=680&lines=Building+Scalable+Business+Systems;Mastering+Laravel+%26+Livewire;Exploring+React,+Java,+Flutter+%26+Power+BI;Code.+Analyze.+Improve.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Building+Business+Systems;Laravel+%2B+Livewire+Developer;Telegram+Automation+Bots;Exploring+React+%2C+Flutter+%26+Power+BI;Code.+Build.+Analyze.+Improve."/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=FF5733&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile%20Views&color=FF5733&style=for-the-badge"/>
 </p>
 
 
