@@ -79,6 +79,25 @@
 
 ---
 
+# 🤖 Telegram Automation
+
+<p align="center">
+<img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</p>
+
+<p align="center">
+<samp>
+
+📢 Notification Bots  
+📊 Sales Report Bots  
+🔔 System Monitoring Bots  
+⚡ Laravel → Telegram Automation  
+
+</samp>
+</p>
+
+---
+
 ## 📊 Data & Analytics (Power BI 🚀)
 
 <p align="center">
