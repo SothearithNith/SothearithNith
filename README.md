@@ -18,18 +18,22 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <p align="center">
-  <samp>
-    💼 Developer at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a><br>
-    ⚙️ Laravel & Livewire focused, full-stack mindset<br>
-    📊 Exploring data analytics with <b>Power BI</b><br>
-    🎯 Goal: Build scalable systems powered by data
-  </samp>
+<samp>
+
+💼 Developer at <a href="https://www.facebook.com/121ShoppeCompany/">121 Shoppe Co.,Ltd</a>  
+⚙️ Focused on **Laravel + Livewire Systems**  
+🤖 Building **Telegram Automation Bots**  
+📊 Exploring **Power BI Data Analytics**  
+🎯 Mission: Build **scalable systems powered by data**
+
+</samp>
 </p>
 
 ---
+
 
 ## 🌐 Connect With Me
 
