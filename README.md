@@ -200,9 +200,7 @@ Co.,Ltd </a> \
 
  
 <p align="center">
- 
- <img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=radical&no-frame=true&margin-w=6&margin-h=6"/> 
- 
+  <img src="https://github.com/SothearithNith.png" width="200" alt="GitHub Profile"/>
 </p>
  
 
@@ -212,10 +210,8 @@ Co.,Ltd </a> \
 
  
 <p align="center">
- 
-  <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
  
 
@@ -249,9 +245,7 @@ Co.,Ltd </a> \
 
  
 <p align="center">
- 
- <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg" alt="snake animation"/> 
- 
+  <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg" alt="Snake"/>
 </p>
  
 
