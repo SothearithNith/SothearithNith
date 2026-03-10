@@ -1,13 +1,6 @@
- 
-<!-- ================= HEADER ================= -->
- 
- 
-<p align="center">
- 
+ <p align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=220&section=header&text=Nith%20Sothearith&fontSize=46&fontAlignY=40&animation=fadeIn"/> 
- 
 </p>
- 
  
 <h3 align="center">
  
@@ -103,11 +96,8 @@ Co.,Ltd </a> \
 
 # ⚙️ Frameworks & Technologies
 
- 
 <p align="center">
- 
- <img src="https://skillicons.dev/icons?i=laravel,react,flutter,spring,nodejs,express,linux"/> 
- 
+  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,spring,nodejs,express,linux,bootstrap,vue,vite,tailwind"/>
 </p>
  
 
