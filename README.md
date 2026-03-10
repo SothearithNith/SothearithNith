@@ -97,7 +97,7 @@ Co.,Ltd </a> \
 # ⚙️ Frameworks & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,spring,nodejs,express,linux,bootstrap,vue,vite,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,vite,laravel,nodejs,express,spring,flutter,linux"/>
 </p>
  
 
