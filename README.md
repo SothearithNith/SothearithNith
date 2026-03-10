@@ -221,25 +221,19 @@ Co.,Ltd </a> \
 
 ------------------------------------------------------------------------
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
- 
 <p align="center">
- 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&area=true&hide_border=true"/> 
- 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&area=true&hide_border=true" />
 </p>
- 
 
-------------------------------------------------------------------------
+---
 
 # 🐍 Contribution Snake
 
- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg" alt="Snake"/>
+  <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg" />
 </p>
- 
 
 ------------------------------------------------------------------------
 
