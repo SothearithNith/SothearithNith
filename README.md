@@ -86,9 +86,11 @@ Co.,Ltd </a> \
 
  
 <p align="center">
- 
- <img src="https://skillicons.dev/icons?i=html,css,php,java,python,dart,cpp,cs,mysql"/> 
- 
+  <img src="https://skillicons.dev/icons?i=html,css,php,java,python,dart,cpp,cs"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
  
 
