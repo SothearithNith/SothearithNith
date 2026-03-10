@@ -200,12 +200,10 @@ Co.,Ltd </a> \
 
 # 📊 GitHub Stats
 
- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=radical&hide_border=true" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=react&hide_border=true"/>
 </p>
- 
 
 ------------------------------------------------------------------------
 
@@ -224,7 +222,7 @@ Co.,Ltd </a> \
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&area=true&hide_border=true"/>
 </p>
 
 ---
