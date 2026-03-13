@@ -180,21 +180,12 @@ Co.,Ltd </a> \
 🔹 Telegram Automation Bots\
 🔹 React Dashboard Development\
 🔹 Power BI Data Visualization
+🔹 RestFul APIs
+🔹 Java Spring
 
  </samp> 
  
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 🏆 GitHub Achievements
-
- 
-<p align="center">
-  <img src="https://github.com/SothearithNith.png" width="200" alt="GitHub Profile"/>
-</p>
- 
+</p> 
 
 ------------------------------------------------------------------------
 
