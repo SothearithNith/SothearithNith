@@ -181,7 +181,7 @@ Co.,Ltd </a> \
 🔹 React Dashboard Development\
 🔹 Power BI Data Visualization\
 🔹 RestFul APIs\
-🔹 Java Spring\
+🔹 Java Spring
 
  </samp> 
  
