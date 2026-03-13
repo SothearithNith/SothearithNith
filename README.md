@@ -43,7 +43,6 @@ Co.,Ltd </a> \
  </samp> 
  
 </p>
- 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +50,7 @@ Co.,Ltd </a> \
 
  
 <p align="center">
- 
+
  <a href="https://www.linkedin.com/in/nith-sothearith/"> 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> 
  </a> 
@@ -75,8 +74,6 @@ Co.,Ltd </a> \
  <a href="https://nithsothearith.com/"> 
  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome"/> 
  </a> 
-
- 
 </p>
  
 
@@ -132,7 +129,6 @@ Co.,Ltd </a> \
 ------------------------------------------------------------------------
 
 # 📊 Data Analytics
-
  
 <p align="center">
  
@@ -154,7 +150,6 @@ Co.,Ltd </a> \
  
 </p>
  
-
 ------------------------------------------------------------------------
 
 # 🛠️ Tools & Platforms
