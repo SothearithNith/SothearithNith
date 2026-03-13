@@ -255,10 +255,25 @@ Build systems first → then analyze them smarter 📊
 
 ------------------------------------------------------------------------
 
- 
+# 💡 Developer Mindset
+
+> First build the system.\
+> Then let the data tell the story.\
+> --- **Nith Sothearith**
+
+------------------------------------------------------------------------
+
+
 <p align="center">
- 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=150&section=footer"/> 
- 
+
+⭐ If you like my work, consider following me!
+
+
 </p>
- 
+
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:FF5733&height=120&section=footer"/>
+
+</p>
