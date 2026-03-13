@@ -179,9 +179,9 @@ Co.,Ltd </a> \
 🔹 Laravel Business Systems\
 🔹 Telegram Automation Bots\
 🔹 React Dashboard Development\
-🔹 Power BI Data Visualization
-🔹 RestFul APIs
-🔹 Java Spring
+🔹 Power BI Data Visualization\
+🔹 RestFul APIs\
+🔹 Java Spring\
 
  </samp> 
  
