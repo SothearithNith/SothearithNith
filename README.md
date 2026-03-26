@@ -153,6 +153,20 @@ currently  :
   <img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
+<p align="center">
+
+| 🏅 Achievement | 📖 Description |
+|:---:|:---|
+| 🦈 **Pull Shark** | Opened pull requests that got merged |
+| 🧊 **Arctic Code Vault** | Code preserved in GitHub's Arctic Vault for 1,000 years |
+| 🎯 **YOLO** | Merged a pull request without a code review |
+| ⚡ **Quickdraw** | Closed an issue or PR within 5 minutes of opening |
+| ⭐ **Starstruck** | Created a repository that earned many stars |
+| 👥 **Pair Extraordinaire** | Co-authored commits on merged pull requests |
+| 🧠 **Galaxy Brain** | Answered a discussion that was marked as the solution |
+
+</p>
+
 ---
 
 ## 📈 Contribution Activity
