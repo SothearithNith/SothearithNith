@@ -172,7 +172,7 @@ currently  :
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=A78BFA&line=FF5733&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
@@ -182,7 +182,8 @@ currently  :
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
