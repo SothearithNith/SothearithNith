@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://nithsothearith.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/SothearithNith">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=302b63&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=for-the-badge&color=302b63"/>
+  <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=for-the-badge&color=302b63&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -63,17 +63,24 @@ currently  :
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,livewire,react,vue,tailwind,bootstrap,spring,flutter,nodejs,express,vite&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap,spring,flutter,nodejs,express,vite&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,aws&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase&theme=dark"/>
 </p>
 
 ### 🧰 Tools & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,vscode,figma,postman,vercel&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode,figma,postman,vercel&theme=dark"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
@@ -97,7 +104,7 @@ currently  :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-0052CC?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-0052CC?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
