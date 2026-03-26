@@ -1,265 +1,194 @@
- <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:4CAF50&height=220&section=header&text=Nith%20Sothearith&fontSize=46&fontAlignY=40&animation=fadeIn"/> 
-</p>
- 
-<h3 align="center">
- 
-🚀 Laravel • Livewire • Full-Stack Developer
- 
-</h3>
- 
- 
 <p align="center">
- 
- <img src="https://readme-typing-svg.demolab.com?font=Dosis&weight=700&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=Building+Business+Systems;Laravel+%2B+Livewire+Developer;Telegram+Automation+Bots;Exploring+React+%2C+Flutter+%26+Power+BI;Code.+Build.+Analyze.+Improve."/> 
- 
-</p>
- 
- 
-<p align="center">
- 
- <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile%20Views&color=FF5733&style=for-the-badge"/> 
- 
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 👨‍💻 About Me
-
- 
-<p align="center">
- 
- <samp> 
-
-💼 Developer at
- <a href="https://www.facebook.com/121ShoppeCompany/"> 121 Shoppe
-Co.,Ltd </a> \
-⚙️ Focused on **Laravel + Livewire Systems**\
-🤖 Building **Telegram Automation Bots**\
-📊 Exploring **Power BI Data Analytics**\
-🎯 Mission: Build **scalable systems powered by data**
-
- </samp> 
- 
-</p>
-
-------------------------------------------------------------------------
-
-# 🌐 Connect With Me
-
- 
-<p align="center">
-
- <a href="https://www.linkedin.com/in/nith-sothearith/"> 
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> 
- </a> 
-
- <a href="https://www.facebook.com/nithsothearith.nsr"> 
- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/> 
- </a> 
-
- <a href="https://t.me/NithSothearith"> 
- <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram"/> 
- </a> 
-
- <a href="https://www.instagram.com/nith_sothearith/"> 
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/> 
- </a> 
-
- <a href="https://github.com/SothearithNith"> 
- <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> 
- </a> 
-
- <a href="https://nithsothearith.com/"> 
- <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome"/> 
- </a> 
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 🧑‍💻 Programming Languages
-
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,java,python,dart,cpp,cs"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Nith%20Sothearith&fontSize=52&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20System%20Builder%20%7C%20Data%20Thinker&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-</p>
- 
-
-------------------------------------------------------------------------
-
-# ⚙️ Frameworks & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,vite,laravel,nodejs,express,spring,flutter,linux"/>
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 🤖 Telegram Automation
-
- 
-<p align="center">
- 
- <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
- 
-</p>
- 
- 
-<p align="center">
- 
- <samp> 
-
-📢 Notification Bots\
-📊 Sales Report Bots\
-🔔 System Monitoring Bots\
-⚡ Laravel → Telegram Automation
-
- </samp> 
- 
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 📊 Data Analytics
- 
-<p align="center">
- 
- <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
- 
-</p>
- 
- 
-<p align="center">
- 
- <samp> 
-
-📈 Interactive Dashboards\
-📊 Data Modeling\
-🧮 Learning **DAX**\
-🔗 Backend Data → Business Insights
-
- </samp> 
- 
-</p>
- 
-------------------------------------------------------------------------
-
-# 🛠️ Tools & Platforms
-
- 
-<p align="center">
- 
- <img src="https://skillicons.dev/icons?i=mysql,firebase,aws,vercel,vscode,figma,postman,git,github,linux,redis,nginx"/> 
- 
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 🚀 Current Focus
-
- 
-<p align="center">
- 
- <samp> 
-
-🔹 Laravel Business Systems\
-🔹 Telegram Automation Bots\
-🔹 React Dashboard Development\
-🔹 Power BI Data Visualization\
-🔹 RestFul APIs\
-🔹 Java Spring
-
- </samp> 
- 
-</p> 
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=react&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=react&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/nith-sothearith/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/nithsothearith.nsr">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://t.me/NithSothearith">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/nith_sothearith/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://nithsothearith.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SothearithNith">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-------------------------------------------------------------------------
-
-# 🔥 GitHub Streak
-
- 
 <p align="center">
- 
- <img src="https://streak-stats.demolab.com?user=SothearithNith&theme=tokyonight&hide_border=true"/> 
- 
+  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=302b63&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=for-the-badge&color=302b63"/>
 </p>
- 
-
-------------------------------------------------------------------------
-
-# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=🔥+Laravel+%2B+Livewire+Business+Systems;🤖+Building+Telegram+Automation+Bots;📊+Power+BI+%26+Data+Analytics+Explorer;⚡+React+%7C+Flutter+%7C+Java+Spring;🧠+Backend+Engineering+meets+Data+Thinking"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+## 🧬 About Me
+
+```yaml
+name       : Nith Sothearith
+alias      : NSR
+role       : Full-Stack Developer @ 121 Shoppe Co., Ltd
+location   : Cambodia 🇰🇭
+focus      : Laravel · Livewire · Telegram Bots · Power BI
+mission    : Build scalable systems → Let data tell the story
+mindset    : "First build the system. Then let the data tell the story."
+currently  :
+  - 🔭 Building Laravel Business Systems
+  - 🤖 Automating workflows with Telegram Bots
+  - 📊 Exploring Power BI & DAX
+  - ⚛️  Diving deeper into React & Java Spring
+  - 🌱 Learning Flutter for mobile
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,java,python,dart,cs,cpp,html,css&theme=dark"/>
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,livewire,react,vue,tailwind,bootstrap,spring,flutter,nodejs,express,vite&theme=dark"/>
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,aws&theme=dark"/>
+</p>
+
+### 🧰 Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,docker,vscode,figma,postman,vercel&theme=dark"/>
+</p>
+
+---
+
+## 🤖 Telegram Automation
+
+<p align="center">
+
+| Bot Type | Description |
+|---|---|
+| 📢 **Notification Bot** | Real-time alerts from Laravel backend |
+| 📊 **Sales Report Bot** | Daily/weekly auto-generated reports |
+| 🔔 **System Monitor Bot** | Uptime & error tracking via Telegram |
+| ⚡ **Workflow Automation** | Laravel → Telegram seamless pipelines |
+
+</p>
+
+---
+
+## 📊 Power BI & Data Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-0052CC?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+```
+📈  Interactive Dashboards    →  Business decision-making made visual
+🧮  DAX Formulas              →  Complex metrics, simplified
+🔗  Backend → BI Pipeline     →  Raw data to real insights
+📦  Data Modeling             →  Structured for performance & clarity
+```
+
+---
+
+## 🚀 Current Focus
+
+<table align="center">
+  <tr>
+    <td align="center">🏗️<br/><b>Laravel Systems</b><br/><sub>Business logic & APIs</sub></td>
+    <td align="center">🤖<br/><b>Telegram Bots</b><br/><sub>Automation pipelines</sub></td>
+    <td align="center">⚛️<br/><b>React Dashboards</b><br/><sub>Modern UI/UX</sub></td>
+  </tr>
+  <tr>
+    <td align="center">📊<br/><b>Power BI</b><br/><sub>Data visualization</sub></td>
+    <td align="center">☕<br/><b>Java Spring</b><br/><sub>Enterprise backend</sub></td>
+    <td align="center">📱<br/><b>Flutter</b><br/><sub>Cross-platform apps</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SothearithNith&theme=tokyonight&hide_border=true&background=0d1117&dates=A78BFA&ring=FF5733&fire=FF5733&currStreakLabel=A78BFA"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=A78BFA&line=FF5733&point=ffffff"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
 
-------------------------------------------------------------------------
+---
 
-# ⚡ Fun Fact
-
- 
-<p align="center">
- 
- <samp> 
-
-I enjoy mixing **backend engineering with data thinking**\
-Build systems first → then analyze them smarter 📊
-
- </samp> 
- 
-</p>
- 
-
-------------------------------------------------------------------------
-
-# 💡 Developer Mindset
-
-> First build the system.\
-> Then let the data tell the story.\
-> --- **Nith Sothearith**
-
-------------------------------------------------------------------------
-
+## 💡 Developer Mindset
 
 <p align="center">
 
-⭐ If you like my work, consider following me!
-
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║   "First build the system.                            ║
+║    Then let the data tell the story."                 ║
+║                                                       ║
+║                          — Nith Sothearith            ║
+╚═══════════════════════════════════════════════════════╝
+```
 
 </p>
 
+---
 
 <p align="center">
+  <i>⭐ If you find my work useful, consider giving a star or following me!</i>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:FF5733&height=120&section=footer"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
