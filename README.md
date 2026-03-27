@@ -30,8 +30,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Laravel+%2B+Livewire+Business+Systems;Building+Telegram+Automation+Bots;Power+BI+%26+Data+Analytics+Explorer;React+%7C+Flutter+%7C+Java+Spring;Backend+Engineering+meets+Data+Thinking"/>
-</p>
----
+</p> 
 
 ## 🧬 About Me
 
