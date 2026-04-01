@@ -1,0 +1,52 @@
+name: Generate GitHub Stats SVGs
+ 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:        # allows manual trigger
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+ 
+      - name: Generate stats card
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: SothearithNith
+          output_file: stats.svg
+          theme: tokyonight
+          bg_color: "0a0f1e"
+          title_color: "00f5d4"
+          icon_color: "f0a500"
+          text_color: "c9d1d9"
+          hide_border: true
+          count_private: true
+          include_all_commits: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+      - name: Generate top-langs card
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          username: SothearithNith
+          output_file: langs.svg
+          card_type: top-langs
+          layout: compact
+          theme: tokyonight
+          bg_color: "0a0f1e"
+          title_color: "00f5d4"
+          text_color: "c9d1d9"
+          hide_border: true
+          langs_count: 8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
