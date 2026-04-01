@@ -253,6 +253,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a3d2e,50:0d2137,100:0a0f1e&height=140&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d2e,50:0d2137,100:0a0f1e&height=140&section=footer&animation=fadeIn"/>
 </p>
  
