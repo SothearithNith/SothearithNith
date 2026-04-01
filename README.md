@@ -41,19 +41,19 @@
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
-║  name       : Nith Sothearith                           ║
-║  alias      : NSR                                       ║
-║  role       : Full-Stack Developer @ 121 Shoppe Co.,Ltd ║
-║  location   : Cambodia 🇰🇭                              ║
-║  focus      : Laravel · Livewire · Telegram Bots · BI   ║
-║  mission    : Build scalable systems → data tells story ║
-║                                                         ║
-║  currently  :                                           ║
-║    - Building Laravel Business Systems                  ║
-║    - Automating workflows with Telegram Bots            ║
-║    - Exploring Power BI & DAX                           ║
-║    - Diving deeper into React & Java Spring             ║
-║    - Learning Flutter for mobile                        ║
+║  name       : Nith Sothearith                            ║
+║  alias      : NSR                                        ║
+║  role       : Full-Stack Developer @ 121 Shoppe Co.,Ltd  ║
+║  location   : Cambodia 🇰🇭                                ║
+║  focus      : Laravel · Livewire · Telegram Bots · BI    ║
+║  mission    : Build scalable systems → data tells story  ║
+║                                                          ║
+║  currently  :                                            ║
+║    - Building Laravel Business Systems                   ║
+║    - Automating workflows with Telegram Bots             ║
+║    - Exploring Power BI & DAX                            ║
+║    - Diving deeper into React & Java Spring              ║
+║    - Learning Flutter for mobile                         ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
