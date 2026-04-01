@@ -2,19 +2,21 @@ name: Generate GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily at midnight
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # allow pushing to repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1. Checkout repository
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      # 2. Generate main stats card
       - name: Generate stats card
         uses: anuraghazra/github-readme-stats@latest
         with:
@@ -31,6 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3. Generate top languages card
       - name: Generate top-langs card
         uses: anuraghazra/github-readme-stats@latest
         with:
@@ -47,16 +50,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 4. Push generated SVGs to output branch
       - name: Push SVGs to output branch
         run: |
-          mkdir -p output-branch
-          cp stats.svg output-branch/
-          cp langs.svg output-branch/
-          cd output-branch
-          git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -b output
-          git add .
-          git commit -m "chore: update stats SVGs"
+          git checkout -B output
+          mkdir -p output
+          mv stats.svg output/
+          mv langs.svg output/
+          git add output/stats.svg output/langs.svg
+          git commit -m "chore: update stats SVGs" || echo "No changes to commit"
           git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" output
