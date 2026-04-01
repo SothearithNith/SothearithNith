@@ -31,10 +31,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=780&lines=⚡+Laravel+%2B+Livewire+Business+Systems;🤖+Building+Telegram+Automation+Bots;📊+Power+BI+%26+Data+Analytics+Explorer;⚛️+React+%7C+Flutter+%7C+Java+Spring;🏗️+Backend+Engineering+meets+Data+Thinking;🇰🇭+Building+from+Cambodia%2C+for+the+world"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Laravel+%2B+Livewire+Business+Systems;%F0%9F%A4%96+Building+Telegram+Automation+Bots;%F0%9F%93%8A+Power+BI+%26+Data+Analytics+Explorer;%E2%9A%9B%EF%B8%8F+React+%7C+Flutter+%7C+Java+Spring;%F0%9F%9B%A0%EF%B8%8F+Backend+Engineering+meets+Data+Thinking"/>
 </p>
-
----
 
 ## 🧬 About Me
 
