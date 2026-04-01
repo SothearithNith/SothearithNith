@@ -25,32 +25,35 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=00f5d4&style=for-the-badge&labelColor=0a0f1e"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=for-the-badge&color=f0a500&labelColor=0a0f1e&logoColor=white"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=%F0%9F%92%BB+Laravel+%2B+Livewire+Business+Systems;%F0%9F%A4%96+Building+Telegram+Automation+Bots;%F0%9F%93%8A+Power+BI+%26+Data+Analytics+Explorer;%E2%9A%9B%EF%B8%8F+React+%7C+Flutter+%7C+Java+Spring;%F0%9F%9B%A0%EF%B8%8F+Backend+Engineering+meets+Data+Thinking"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=780&lines=Laravel+%2B+Livewire+Business+Systems;Building+Telegram+Automation+Bots;Power+BI+%26+Data+Analytics+Explorer;React+%7C+Flutter+%7C+Java+Spring;Backend+Engineering+meets+Data+Thinking;Building+from+Cambodia%2C+for+the+world"/>
 </p>
+
+---
 
 ## 🧬 About Me
 
 ```yaml
 ╔══════════════════════════════════════════════════════════╗
-║  name       : Nith Sothearith                            ║
-║  alias      : NSR                                        ║
-║  role       : Full-Stack Developer @ 121 Shoppe Co.,Ltd  ║
-║  location   : Cambodia 🇰🇭                                ║
-║  focus      : Laravel · Livewire · Telegram Bots · BI    ║
-║  mission    : Build scalable systems → data tells story  ║
-║                                                          ║
-║  currently  :                                            ║
-║    🔭  Building Laravel Business Systems                ║
-║    🤖  Automating workflows with Telegram Bots          ║
-║    📊  Exploring Power BI & DAX                         ║
-║    ⚛️   Diving deeper into React & Java Spring          ║
-║    🌱  Learning Flutter for mobile                      ║
+║  name       : Nith Sothearith                           ║
+║  alias      : NSR                                       ║
+║  role       : Full-Stack Developer @ 121 Shoppe Co.,Ltd ║
+║  location   : Cambodia 🇰🇭                              ║
+║  focus      : Laravel · Livewire · Telegram Bots · BI   ║
+║  mission    : Build scalable systems → data tells story ║
+║                                                         ║
+║  currently  :                                           ║
+║    - Building Laravel Business Systems                  ║
+║    - Automating workflows with Telegram Bots            ║
+║    - Exploring Power BI & DAX                           ║
+║    - Diving deeper into React & Java Spring             ║
+║    - Learning Flutter for mobile                        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -69,7 +72,8 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white&labelColor=0a0f1e"/>
-  <img src="https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpine.js&logoColor=white&labelColor=0a0f1e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpinedotjs&logoColor=white&labelColor=0a0f1e"/>
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -82,7 +86,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vscode,figma,postman,vercel,docker&theme=dark&perline=10"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-f0a500?style=for-the-badge&logo=amazonaws&logoColor=0a0f1e&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/AWS-f0a500?style=for-the-badge&logo=amazonwebservices&logoColor=0a0f1e&labelColor=0a0f1e"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=0a0f1e&labelColor=0a0f1e"/>
 </p>
 
@@ -92,8 +97,8 @@
 
 <p align="center">
 
-| &nbsp;&nbsp;&nbsp;Bot Type&nbsp;&nbsp;&nbsp; | Description |
-|:---:|:---|
+| &nbsp;&nbsp;Bot Type&nbsp;&nbsp; | Description |
+|:---|:---|
 | 📢 **Notification Bot** | Real-time alerts pushed from Laravel backend to Telegram |
 | 📊 **Sales Report Bot** | Daily & weekly auto-generated business reports |
 | 🔔 **System Monitor Bot** | Uptime tracking & error alerts via Telegram |
@@ -108,8 +113,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1a1a2e"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/DAX-00f5d4?style=for-the-badge&logo=microsoftexcel&logoColor=0a0f1e&labelColor=1a1a2e"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Data%20Modeling-f0a500?style=for-the-badge&logo=databricks&logoColor=0a0f1e&labelColor=1a1a2e"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/ETL%20Pipeline-e05c97?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=1a1a2e"/>
 </p>
 
@@ -140,13 +148,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&bg_color=0a0f1e"/>
-  &nbsp;&nbsp;
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=algolia&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&langs_count=8"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&bg_color=0a0f1e&rank_icon=github&cache_seconds=86400"/>
+  &nbsp;
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&langs_count=8&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SothearithNith&theme=dark&hide_border=true&background=0a0f1e&dates=00f5d4&ring=f0a500&fire=e05c97&currStreakLabel=00f5d4&sideLabels=c9d1d9&stroke=00f5d4"/>
+  <img src="https://streak-stats.demolab.com/?user=SothearithNith&theme=tokyonight-duo&hide_border=true&background=0a0f1e&dates=00f5d4&ring=f0a500&fire=e05c97&currStreakLabel=00f5d4&sideLabels=c9d1d9&stroke=0a0f1e&type=svg"/>
 </p>
 
 ---
@@ -154,7 +162,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </p>
 
 <p align="center">
@@ -176,7 +184,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&bg_color=0a0f1e&color=00f5d4&line=f0a500&point=e05c97&area=true&hide_border=true&area_color=00f5d410"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&bg_color=0a0f1e&color=00f5d4&line=f0a500&point=e05c97&area=true&hide_border=true&custom_title=Nith%20Sothearith%20Contribution%20Graph"/>
 </p>
 
 ---
@@ -190,6 +198,8 @@
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </p>
+
+> **Note:** The snake animation requires the GitHub Actions workflow in `.github/workflows/snake.yml` to run and push SVGs to the `output` branch. Make sure it's enabled in your repo Actions settings.
 
 ---
 
@@ -220,8 +230,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Collaborations-00f5d4?style=for-the-badge&labelColor=0a0f1e"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Always-Learning-f0a500?style=for-the-badge&labelColor=0a0f1e"/>
-  <img src="https://img.shields.io/badge/Made%20in-Cambodia%20🇰🇭-e05c97?style=for-the-badge&labelColor=0a0f1e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Made%20in-Cambodia-e05c97?style=for-the-badge&labelColor=0a0f1e"/>
 </p>
 
 <p align="center">
