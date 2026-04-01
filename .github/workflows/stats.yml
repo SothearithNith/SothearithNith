@@ -12,7 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
       - name: Generate stats card
         uses: anuraghazra/github-readme-stats@latest
@@ -47,9 +48,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p output-branch
+          cp stats.svg output-branch/
+          cp langs.svg output-branch/
+          cd output-branch
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add .
+          git commit -m "chore: update stats SVGs"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" output
