@@ -154,9 +154,9 @@
   See: .github/workflows/stats.yml  (setup instructions at bottom of this README)
 --> 
 <p align="center">
-  <img height="185" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/stats.svg"/>
+  <img height="185" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/stats.svg"/>
   &nbsp;
-  <img height="185" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/langs.svg"/>
+  <img height="185" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/langs.svg"/>
 </p>
 
 <p align="center">
