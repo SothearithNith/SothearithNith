@@ -18,9 +18,11 @@ jobs:
       - name: Download stats SVG
         run: |
           mkdir -p output
+          # Replace YOUR-VERCEL-APP with your own deployed instance domain
+          BASE="https://svg-mu-woad.vercel.app"
           for i in 1 2 3; do
             curl -fsSL --max-time 15 -o output/stats.svg \
-              "https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)" \
+              "${BASE}/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)" \
               && grep -q "<svg" output/stats.svg \
               && echo "stats.svg OK" && break
             echo "Attempt $i failed, retrying in 5s..."
@@ -30,9 +32,10 @@ jobs:
 
       - name: Download langs SVG
         run: |
+          BASE="https://svg-mu-woad.vercel.app"
           for i in 1 2 3; do
             curl -fsSL --max-time 15 -o output/langs.svg \
-              "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)" \
+              "${BASE}/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)" \
               && grep -q "<svg" output/langs.svg \
               && echo "langs.svg OK" && break
             echo "Attempt $i failed, retrying in 5s..."
