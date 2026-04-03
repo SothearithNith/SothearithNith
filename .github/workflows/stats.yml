@@ -1,0 +1,42 @@
+name: Update GitHub Stats
+
+# Trigger manually or daily
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repository
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      # 2. Create "output" folder if it doesn't exist
+      - name: Prepare output folder
+        run: mkdir -p output
+
+      # 3. Download Stats API images
+      - name: Download stats card
+        run: |
+          curl -o output/stats.svg "https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0"
+
+      - name: Download top languages card
+        run: |
+          curl -o output/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0"
+
+      # 4. Commit and push to output branch
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+          git add output/stats.svg output/langs.svg
+          git commit -m "chore: update stats SVGs" || echo "No changes to commit"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" output
