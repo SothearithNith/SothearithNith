@@ -1,0 +1,27 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Optional: allows manual run
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Activity Graph SVG
+        run: |
+          curl -o activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&bg_color=0a0f1e&color=00f5d4&line=f0a500&point=e05c97&area=true&hide_border=true&custom_title=Nith%20Sothearith%20Contribution%20Graph"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git commit -m "Update GitHub Activity Graph"
+          git push
+        continue-on-error: true
