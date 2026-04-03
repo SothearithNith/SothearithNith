@@ -146,7 +146,7 @@
 <p align="center">
   <img height="185" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/stats.svg"/>
   &nbsp;
-  <img height="185" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/langs.svg"/>
+  <img height="185" src="[https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/langs.svg](https://github.com/SothearithNith/SothearithNith/blob/output/output/langs.svg)"/>
 </p>
 
 <p align="center">
