@@ -3,7 +3,7 @@ name: Update GitHub Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight
+    - cron: "0 0 * * *"
 
 permissions:
   contents: write
@@ -13,11 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repository
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      # 1. Checkout repo
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # needed for branch push
+          fetch-depth: 0
 
       # 2. Download stats card
       - name: Download stats card
