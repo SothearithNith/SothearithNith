@@ -1,64 +1,20 @@
-name: Generate GitHub Stats SVGs
+name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow pushing to repo
+  contents: write
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
+
     steps:
-      # 1. Checkout repository
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      # 2. Generate main stats card
-      - name: Generate stats card
-        uses: anuraghazra/github-readme-stats@latest
+      - uses: lowlighter/metrics@latest
         with:
-          username: SothearithNith
-          output_file: stats.svg
-          theme: tokyonight
-          bg_color: "0a0f1e"
-          title_color: "00f5d4"
-          icon_color: "f0a500"
-          text_color: "c9d1d9"
-          hide_border: true
-          count_private: true
-          include_all_commits: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 3. Generate top languages card
-      - name: Generate top-langs card
-        uses: anuraghazra/github-readme-stats@latest
-        with:
-          username: SothearithNith
-          output_file: langs.svg
-          card_type: top-langs
-          layout: compact
-          theme: tokyonight
-          bg_color: "0a0f1e"
-          title_color: "00f5d4"
-          text_color: "c9d1d9"
-          hide_border: true
-          langs_count: 8
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # 4. Push generated SVGs to output branch
-      - name: Push SVGs to output branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
-          mkdir -p output
-          mv stats.svg output/
-          mv langs.svg output/
-          git add output/stats.svg output/langs.svg
-          git commit -m "chore: update stats SVGs" || echo "No changes to commit"
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" output
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: SothearithNith
+          filename: github-metrics.svg
