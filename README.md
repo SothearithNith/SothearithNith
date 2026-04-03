@@ -176,16 +176,20 @@
 ---
 
 ## 🏆 GitHub Achievements
-
+ 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SothearithNith&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A6%88%20Pull%20Shark-00f5d4?style=for-the-badge&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%8A%20Arctic%20Code%20Vault-00f5d4?style=for-the-badge&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20YOLO-f0a500?style=for-the-badge&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/%E2%9A%A1%20Quickdraw-f0a500?style=for-the-badge&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Starstruck-e05c97?style=for-the-badge&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/%F0%9F%91%A5%20Pair%20Extraordinaire-e05c97?style=for-the-badge&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Galaxy%20Brain-00f5d4?style=for-the-badge&labelColor=0a0f1e"/>
 </p>
-
-> If the trophy widget is unavailable (rate-limited), the badges below are stable fallbacks.
-
+ 
 <details>
 <summary>🏅 Achievement details</summary>
-
+ 
 | Achievement | Description |
 |:---:|:---|
 | 🦈 **Pull Shark** | Opened pull requests that got merged |
@@ -195,7 +199,7 @@
 | ⭐ **Starstruck** | Created a repository that earned many stars |
 | 👥 **Pair Extraordinaire** | Co-authored commits on merged pull requests |
 | 🧠 **Galaxy Brain** | Answered a discussion marked as the accepted solution |
-
+ 
 </details>
 
 ---
