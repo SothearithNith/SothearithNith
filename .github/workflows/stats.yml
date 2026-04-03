@@ -5,6 +5,8 @@ on:
     - cron: "0 0 * * *"
 permissions:
   contents: write
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -13,31 +15,30 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download SVG cards
+      - name: Download stats SVG
         run: |
           mkdir -p output
+          for i in 1 2 3; do
+            curl -fsSL --max-time 15 -o output/stats.svg \
+              "https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)" \
+              && grep -q "<svg" output/stats.svg \
+              && echo "stats.svg OK" && break
+            echo "Attempt $i failed, retrying in 5s..."
+            sleep 5
+            [ $i -eq 3 ] && echo "ERROR: stats.svg failed after 3 attempts" && exit 1
+          done
 
-          fetch() {
-            for i in 1 2 3; do
-              curl -fsSL --retry 2 --retry-delay 3 -o "$1" "$2" && return 0
-              echo "Attempt $i failed, retrying..."
-              sleep 5
-            done
-            echo "ERROR: failed to download $2"
-            exit 1
-          }
-
-          fetch output/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)"
-
-          fetch output/langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)"
-
-      - name: Validate SVG files
+      - name: Download langs SVG
         run: |
-          grep -q "<svg" output/stats.svg || { echo "stats.svg is invalid or missing"; exit 1; }
-          grep -q "<svg" output/langs.svg  || { echo "langs.svg is invalid or missing";  exit 1; }
-          echo "Both SVGs validated OK"
+          for i in 1 2 3; do
+            curl -fsSL --max-time 15 -o output/langs.svg \
+              "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)" \
+              && grep -q "<svg" output/langs.svg \
+              && echo "langs.svg OK" && break
+            echo "Attempt $i failed, retrying in 5s..."
+            sleep 5
+            [ $i -eq 3 ] && echo "ERROR: langs.svg failed after 3 attempts" && exit 1
+          done
 
       - name: Commit and push to output branch
         run: |
