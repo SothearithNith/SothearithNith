@@ -17,33 +17,40 @@ jobs:
         run: |
           mkdir -p output
 
-          # Retry helper: try up to 3 times, 5s apart
-          fetch() { for i in 1 2 3; do
-            curl -fsSL --retry 2 --retry-delay 3 -o "$1" "$2" && return 0
-            echo "Attempt $i failed, retrying..."; sleep 5
-          done; echo "ERROR: failed to download $2"; exit 1; }
+          fetch() {
+            for i in 1 2 3; do
+              curl -fsSL --retry 2 --retry-delay 3 -o "$1" "$2" && return 0
+              echo "Attempt $i failed, retrying..."
+              sleep 5
+            done
+            echo "ERROR: failed to download $2"
+            exit 1
+          }
 
           fetch output/stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=SothearithNith\&show_icons=true&theme=tokyonight&hide_border=true\&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500\&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)"
+            "https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)"
 
           fetch output/langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith\&layout=compact&theme=tokyonight&hide_border=true\&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9\&cache_seconds=0&v=$(date +%s)"
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0&v=$(date +%s)"
 
-          # Validate: SVG must contain actual content, not an error page
-          grep -q "name: Commit & push to output branch
+      - name: Validate SVG files
+        run: |
+          grep -q "<svg" output/stats.svg || { echo "stats.svg is invalid or missing"; exit 1; }
+          grep -q "<svg" output/langs.svg  || { echo "langs.svg is invalid or missing";  exit 1; }
+          echo "Both SVGs validated OK"
+
+      - name: Commit and push to output branch
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Switch to (or create) the output branch WITHOUT wiping the working tree
           git fetch origin output 2>/dev/null \
             && git checkout output \
             || git checkout --orphan output
 
-          # Stage only the two files, not the entire repo state
           git add output/stats.svg output/langs.svg
           git diff --cached --quiet \
             && echo "No changes to commit" \
-            || git commit -m "chore: update stats SVGs [skip ci]"
+            || git commit -m "chore: update stats SVGs"
 
-          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}\@github.com/SothearithNith/SothearithNith.git" output
+          git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" output
