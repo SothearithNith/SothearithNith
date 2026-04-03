@@ -1,7 +1,8 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0f1e,30:0d2137,60:0a3d2e,100:0a1628&height=280&section=header&text=Nith%20Sothearith&fontSize=56&fontAlignY=40&animation=fadeIn&fontColor=00f5d4&desc=Full-Stack%20Developer%20%7C%20System%20Builder%20%7C%20Data%20Thinker&descAlignY=62&descSize=18&fontColor2=f0a500"/>
 </p>
-
+ 
 <p align="center">
   <a href="https://www.linkedin.com/in/nith-sothearith/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e"/>
@@ -22,14 +23,13 @@
     <img src="https://img.shields.io/badge/GitHub-f0a500?style=for-the-badge&logo=github&logoColor=0a0f1e&labelColor=0a0f1e"/>
   </a>
 </p>
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=00f5d4&style=for-the-badge&labelColor=0a0f1e"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=for-the-badge&color=f0a500&labelColor=0a0f1e&logoColor=white"/>
 </p>
-
-<!-- ── Workflow status badges ───────────────────────────────────────────── -->
+ 
 <p align="center">
   <a href="https://github.com/SothearithNith/SothearithNith/actions/workflows/stats.yml">
     <img src="https://github.com/SothearithNith/SothearithNith/actions/workflows/stats.yml/badge.svg?branch=main" alt="Update GitHub Stats"/>
@@ -38,9 +38,9 @@
     <img src="https://github.com/SothearithNith/SothearithNith/actions/workflows/snake.yml/badge.svg?branch=main" alt="Generate Contribution Snake"/>
   </a>
 </p>
-
+ 
 <br/>
-
+ 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=780&lines=Laravel+%2B+Livewire+Business+Systems;Building+Telegram+Automation+Bots;Power+BI+%26+Data+Analytics+Explorer;React+%7C+Flutter+%7C+Java+Spring;Backend+Engineering+meets+Data+Thinking;Building+from+Cambodia%2C+for+the+world"/>
 </p>
