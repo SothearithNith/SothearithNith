@@ -1,20 +1,15 @@
 name: Generate Contribution Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
+# Removed FORCE_JAVASCRIPT_ACTIONS_TO_NODE24 — it is not a GitHub-supported
+# variable and causes unpredictable runner behaviour.
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -26,6 +21,16 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # Explicit token lets snk fetch your contribution graph reliably
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate generated files
+        run: |
+          [ -s dist/github-contribution-grid-snake.svg ] \
+            || { echo "Light SVG missing or empty"; exit 1; }
+          [ -s dist/github-contribution-grid-snake-dark.svg ] \
+            || { echo "Dark SVG missing or empty"; exit 1; }
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
@@ -33,3 +38,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          # Keep previous files (stats SVGs) that live on this branch
+          keep_files: true
+          # Prevents an infinite loop of workflow triggers
+          commit_message: "chore: update contribution snake [skip ci]"
