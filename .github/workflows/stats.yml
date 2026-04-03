@@ -3,7 +3,7 @@ name: Update GitHub Stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # daily
 
 permissions:
   contents: write
@@ -13,23 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo
+      # 1. Checkout repository
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. Download stats card
+      # 2. Prepare folder
+      - name: Prepare output folder
+        run: mkdir -p output
+
+      # 3. Download stats card
       - name: Download stats card
         run: |
-          mkdir -p output
           curl -L -o output/stats.svg "https://github-readme-stats.vercel.app/api?username=SothearithNith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&icon_color=f0a500&text_color=c9d1d9&cache_seconds=0"
 
-      # 3. Download top languages card
+      # 4. Download top languages card
       - name: Download top languages card
         run: |
           curl -L -o output/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00f5d4&text_color=c9d1d9&cache_seconds=0"
 
-      # 4. Commit & push to output branch
+      # 5. Commit & push to output branch
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
