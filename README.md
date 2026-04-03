@@ -157,8 +157,9 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&bg_color=0a0f1e&color=00f5d4&line=f0a500&point=e05c97&area=true&hide_border=true&custom_title=Nith%20Sothearith%20Contribution%Graph&timestamp=20260403"/>
+  <img src="./activity-graph.svg" alt="Nith Sothearith Contribution Graph"/>
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
