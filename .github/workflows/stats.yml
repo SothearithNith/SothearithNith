@@ -47,10 +47,8 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Check out the existing remote output branch, or create a fresh orphan
-          git fetch origin output 2>/dev/null \
-            && git checkout --track origin/output \
-            || git checkout --orphan output
+          git fetch origin output
+          git checkout --track origin/output
 
           mkdir -p output
           git add output/stats.svg output/langs.svg
@@ -58,5 +56,6 @@ jobs:
             && echo "No changes to commit" \
             || git commit -m "chore: update stats SVGs"
 
-          # Force push — this branch is bot-only, no human history to protect
-          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" output
+          git push --force \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/SothearithNith/SothearithNith.git" \
+            output
