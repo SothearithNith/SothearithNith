@@ -24,7 +24,7 @@
 
 ## 👤 Who I Am
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/langs.svg"/>
 
 ```yaml
 name     : Nith Sothearith  ( NSR )
