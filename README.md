@@ -1,181 +1,132 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=200&section=header&text=Nith%20Sothearith&fontSize=48&fontAlignY=50&animation=fadeIn&fontColor=58a6ff&desc=Full-Stack%20Developer%20·%20System%20Builder%20·%20Data%20Thinker&descAlignY=70&descSize=15&fontColor2=8b949e"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:112240,100:0d1117&height=180&section=header&text=Nith%20Sothearith&fontSize=50&fontAlignY=42&fontColor=79c0ff&desc=Full-Stack%20Developer%20·%20System%20Builder%20·%20Data%20Thinker&descAlignY=64&descSize=15&fontColor2=8b949e&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <a href="https://nithsothearith.com/"><img src="https://img.shields.io/badge/🌐 Portfolio-nithsothearith.com-58a6ff?style=flat-square&labelColor=161b22"/></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/nith-sothearith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22"/></a>
-  &nbsp;
-  <a href="https://t.me/NithSothearith"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=161b22"/></a>
-  &nbsp;
-  <a href="https://www.facebook.com/nithsothearith.nsr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=161b22"/></a>
-  &nbsp;
-  <a href="https://www.instagram.com/nith_sothearith/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=161b22"/></a>
+  <a href="https://nithsothearith.com/"><img src="https://img.shields.io/badge/-nithsothearith.com-79c0ff?style=flat-square&logo=google-chrome&logoColor=0d1117&labelColor=112240"/></a>
+  <a href="https://www.linkedin.com/in/nith-sothearith/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=112240"/></a>
+  <a href="https://t.me/NithSothearith"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&labelColor=112240"/></a>
+  <a href="https://www.facebook.com/nithsothearith.nsr"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&labelColor=112240"/></a>
+  <a href="https://www.instagram.com/nith_sothearith/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=112240"/></a>
+  <a href="https://github.com/SothearithNith"><img src="https://img.shields.io/badge/-GitHub-f0a500?style=flat-square&logo=github&logoColor=0d1117&labelColor=112240"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=58a6ff&style=flat-square&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=flat-square&color=3fb950&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cambodia-🇰🇭-f0a500?style=flat-square&labelColor=161b22"/>
+  <img src="https://komarev.com/ghpvc/?username=SothearithNith&label=Profile+Views&color=79c0ff&style=flat-square&labelColor=112240"/>
+  <img src="https://img.shields.io/github/followers/SothearithNith?label=Followers&style=flat-square&color=3fb950&labelColor=112240"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Laravel+%2B+Livewire+Business+Systems;Telegram+Automation+%26+Workflow+Bots;Power+BI+%26+DAX+Data+Analytics;React+%7C+Flutter+%7C+Java+Spring+Boot;Building+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD+for+the+world"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1400&color=79C0FF&center=true&vCenter=true&width=680&lines=Laravel+%2B+Livewire+Business+Systems;Telegram+Automation+%26+Workflow+Bots;Power+BI+%26+DAX+Data+Analytics;React+%7C+Flutter+%7C+Java+Spring+Boot;Backend+Engineering+meets+Data+Thinking;Building+from+Cambodia+%F0%9F%87%B0%F0%9F%87%AD+for+the+world"/>
 </p>
 
 <br/>
 
----
+## 👤 Who I Am
 
-### 👤 Profile
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SothearithNith&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e"/>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+```yaml
+name     : Nith Sothearith  ( NSR )
+role     : Full-Stack Developer
+company  : 121 Shoppe Co., Ltd
+location : Phnom Penh, Cambodia 🇰🇭
 
-**Nith Sothearith** `(NSR)`
+stack    : Laravel · Livewire · Telegram API
+           Power BI · React · Java Spring Boot
+           Flutter · Docker · MySQL · PostgreSQL
 
-🏢 Full-Stack Developer @ **121 Shoppe Co., Ltd**
-📍 Phnom Penh, Cambodia 🇰🇭
-🎯 Laravel · Livewire · Telegram Bots · Power BI
+building : Scalable business systems
+           Telegram automation pipelines
+           BI dashboards & data models
 
-> *"First build the system. Then let the data tell the story."*
+motto    : "First build the system.
+            Then let the data tell the story."
+```
 
-    </td>
-    <td width="50%" valign="top">
-
-**Currently working on:**
-- 🔧 Scalable Laravel business systems
-- 🤖 Telegram workflow automation bots
-- 📊 Power BI dashboards & DAX formulas
-- ⚛️ Deepening React & Java Spring Boot
-- 📱 Learning Flutter for mobile
-
-    </td>
-  </tr>
-</table>
+<br clear="right"/>
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Languages</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,js,ts,java&theme=dark&perline=4"/><br/>
-      <img src="https://skillicons.dev/icons?i=python,dart,cs,cpp&theme=dark&perline=4"/>
-    </td>
-    <td align="center" width="25%">
-      <b>Frameworks</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=laravel,react,vue,spring&theme=dark&perline=4"/><br/>
-      <img src="https://skillicons.dev/icons?i=flutter,tailwind,bootstrap,nodejs&theme=dark&perline=4"/>
-    </td>
-    <td align="center" width="25%">
-      <b>Databases</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&theme=dark&perline=4"/><br/>
-      <img src="https://skillicons.dev/icons?i=firebase&theme=dark&perline=4"/>
-    </td>
-    <td align="center" width="25%">
-      <b>DevOps & Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,docker,nginx,linux&theme=dark&perline=4"/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,figma,postman,vercel&theme=dark&perline=4"/>
-    </td>
-  </tr>
-</table>
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,java,python,dart,cs,cpp,html,css&theme=dark&perline=10"/>
+</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Alpine.js-77C1D2?style=flat-square&logo=alpinedotjs&logoColor=white&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=161b22"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-f0a500?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=161b22"/>
+#### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap,spring,flutter,nodejs,express,vite&theme=dark&perline=10"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white&labelColor=112240"/>
+  <img src="https://img.shields.io/badge/Alpine.js-77C1D2?style=flat-square&logo=alpinedotjs&logoColor=white&labelColor=112240"/>
+</p>
+
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,mongodb&theme=dark&perline=10"/>
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode,figma,postman,vercel&theme=dark&perline=10"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-f0a500?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=112240"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=112240"/>
 </p>
 
 ---
 
-### 🤖 Telegram Automation
+## 🤖 Telegram Automation
 
-<table>
-  <tr>
-    <td>📢 <b>Notification Bot</b></td>
-    <td>Real-time alerts pushed from Laravel backend to Telegram</td>
-  </tr>
-  <tr>
-    <td>📊 <b>Sales Report Bot</b></td>
-    <td>Daily & weekly auto-generated business reports</td>
-  </tr>
-  <tr>
-    <td>🔔 <b>System Monitor Bot</b></td>
-    <td>Uptime tracking & error alerts via Telegram</td>
-  </tr>
-  <tr>
-    <td>🛒 <b>Order Tracker Bot</b></td>
-    <td>Live order status updates for e-commerce systems</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Workflow Bot</b></td>
-    <td>Seamless Laravel → Telegram automation pipelines</td>
-  </tr>
-</table>
+> Seamless **Laravel → Telegram** pipelines for real business workflows.
+
+| &nbsp; | Bot | What it does |
+|:---:|:---|:---|
+| 📢 | **Notification Bot** | Real-time alerts pushed from Laravel backend |
+| 📊 | **Sales Report Bot** | Daily & weekly auto-generated business reports |
+| 🔔 | **System Monitor Bot** | Uptime tracking & server error alerts |
+| 🛒 | **Order Tracker Bot** | Live order status updates for e-commerce |
+| ⚡ | **Workflow Bot** | Custom automation pipelines on demand |
 
 ---
 
-### 📊 Power BI & Data Analytics
+## 📊 Power BI & Data Analytics
 
-<table>
-  <tr>
-    <td>📈 <b>Interactive Dashboards</b></td>
-    <td>Business decisions made visual & fast</td>
-  </tr>
-  <tr>
-    <td>🧮 <b>DAX Formulas</b></td>
-    <td>Complex KPIs, beautifully simplified</td>
-  </tr>
-  <tr>
-    <td>🔗 <b>Backend → BI Pipeline</b></td>
-    <td>Raw MySQL/Postgres data to real insights</td>
-  </tr>
-  <tr>
-    <td>📦 <b>Data Modeling</b></td>
-    <td>Star schemas built for performance</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Drill-Through Reports</b></td>
-    <td>Executive summaries to granular detail</td>
-  </tr>
-</table>
+| &nbsp; | Capability | Description |
+|:---:|:---|:---|
+| 📈 | **Interactive Dashboards** | Business decisions made visual & fast |
+| 🧮 | **DAX Formulas** | Complex KPIs, beautifully simplified |
+| 🔗 | **Backend → BI Pipeline** | Raw MySQL / Postgres data into real insights |
+| 📦 | **Data Modeling** | Star schemas built for performance |
+| 🎯 | **Drill-Through Reports** | Executive summaries down to granular detail |
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/stats.svg"/>
+  <img height="175" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/stats.svg"/>
   &nbsp;&nbsp;
-  <img height="180" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/langs.svg"/>
+  <img height="175" src="https://raw.githubusercontent.com/SothearithNith/SothearithNith/output/output/langs.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SothearithNith&theme=github-dark-blue&hide_border=true&background=0d1117&dates=58a6ff&ring=f0a500&fire=e05c97&currStreakLabel=58a6ff&sideLabels=8b949e&stroke=161b22"/>
+  <img src="https://streak-stats.demolab.com/?user=SothearithNith&theme=github-dark-blue&hide_border=true&background=0d1117&dates=79c0ff&ring=f0a500&fire=ff7b72&currStreakLabel=79c0ff&sideLabels=8b949e&stroke=112240"/>
 </p>
 
 ---
 
-### 📅 Contribution Activity
+## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&bg_color=0d1117&color=58a6ff&line=f0a500&point=3fb950&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SothearithNith&bg_color=0d1117&color=79c0ff&line=f0a500&point=3fb950&area=true&hide_border=true&custom_title=Nith%20Sothearith%20—%20Contribution%20Graph"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -187,26 +138,27 @@
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🦈 Pull Shark-161b22?style=flat-square&color=58a6ff"/>
+  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-112240?style=flat-square&color=112240&labelColor=112240&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pull%20Shark-79c0ff?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🧊 Arctic Code Vault-161b22?style=flat-square&color=58a6ff"/>
+  <img src="https://img.shields.io/badge/-Arctic%20Code%20Vault-79c0ff?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎯 YOLO-161b22?style=flat-square&color=f0a500"/>
+  <img src="https://img.shields.io/badge/-YOLO-f0a500?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⚡ Quickdraw-161b22?style=flat-square&color=f0a500"/>
+  <img src="https://img.shields.io/badge/-Quickdraw-f0a500?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/⭐ Starstruck-161b22?style=flat-square&color=e05c97"/>
+  <img src="https://img.shields.io/badge/-Starstruck-ff7b72?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/👥 Pair Extraordinaire-161b22?style=flat-square&color=e05c97"/>
+  <img src="https://img.shields.io/badge/-Pair%20Extraordinaire-ff7b72?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🧠 Galaxy Brain-161b22?style=flat-square&color=3fb950"/>
+  <img src="https://img.shields.io/badge/-Galaxy%20Brain-3fb950?style=flat-square&labelColor=112240"/>
 </p>
 
 <details>
-<summary>View achievement details</summary>
+<summary>View details</summary>
 
 | Achievement | Description |
 |:---:|:---|
@@ -223,17 +175,17 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-58a6ff?style=flat-square&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-79c0ff?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Always-Learning-3fb950?style=flat-square&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/Always-Learning-3fb950?style=flat-square&labelColor=112240"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Made%20in-Cambodia%20🇰🇭-f0a500?style=flat-square&labelColor=161b22"/>
+  <img src="https://img.shields.io/badge/Made%20in-Cambodia%20🇰🇭-f0a500?style=flat-square&labelColor=112240"/>
 </p>
 
 <p align="center">
-  <i>⚡ If you find my work useful, drop a ⭐ — it means a lot!</i>
+  <i>⚡ Found something useful? Drop a ⭐ — it keeps me going!</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:112240,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 </p>
